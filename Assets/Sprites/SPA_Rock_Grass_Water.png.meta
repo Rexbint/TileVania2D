@@ -1,97 +1,7 @@
 fileFormatVersion: 2
-guid: 3d1234ef295a5944f8bf1363a970275b
+guid: 18ed8dbe95f96b145a61ececcedecd58
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -2464266514383608195
-    second: SPA_Rock_Grass_Water_0
-  - first:
-      213: -3326836957996475874
-    second: SPA_Rock_Grass_Water_1
-  - first:
-      213: -1236713991046615032
-    second: SPA_Rock_Grass_Water_2
-  - first:
-      213: 7323906098350758705
-    second: SPA_Rock_Grass_Water_3
-  - first:
-      213: -5972448355421142556
-    second: SPA_Rock_Grass_Water_4
-  - first:
-      213: -4977721373819348528
-    second: SPA_Rock_Grass_Water_5
-  - first:
-      213: 7953296568139915108
-    second: SPA_Rock_Grass_Water_6
-  - first:
-      213: 1958745200148787322
-    second: SPA_Rock_Grass_Water_7
-  - first:
-      213: 7799159119227759483
-    second: SPA_Rock_Grass_Water_8
-  - first:
-      213: -2755257858965140955
-    second: SPA_Rock_Grass_Water_9
-  - first:
-      213: -3493280607249542649
-    second: SPA_Rock_Grass_Water_10
-  - first:
-      213: -7832389824997676707
-    second: SPA_Rock_Grass_Water_11
-  - first:
-      213: 6972465368094823745
-    second: SPA_Rock_Grass_Water_12
-  - first:
-      213: -7671020578840251174
-    second: SPA_Rock_Grass_Water_13
-  - first:
-      213: 2766323726693326924
-    second: SPA_Rock_Grass_Water_14
-  - first:
-      213: -3503154757471595975
-    second: SPA_Rock_Grass_Water_15
-  - first:
-      213: -1667590691872097069
-    second: SPA_Rock_Grass_Water_16
-  - first:
-      213: -2488111991826676060
-    second: SPA_Rock_Grass_Water_17
-  - first:
-      213: -7175372319361646676
-    second: SPA_Rock_Grass_Water_18
-  - first:
-      213: -7647882774218309960
-    second: SPA_Rock_Grass_Water_19
-  - first:
-      213: -3542295685721467227
-    second: SPA_Rock_Grass_Water_20
-  - first:
-      213: -8076291029264883859
-    second: SPA_Rock_Grass_Water_21
-  - first:
-      213: -3487811798477773700
-    second: SPA_Rock_Grass_Water_22
-  - first:
-      213: -5134054752372163016
-    second: SPA_Rock_Grass_Water_23
-  - first:
-      213: 6192572789505845407
-    second: SPA_Rock_Grass_Water_24
-  - first:
-      213: -4897907173415269231
-    second: SPA_Rock_Grass_Water_25
-  - first:
-      213: 3803662930465603148
-    second: SPA_Rock_Grass_Water_26
-  - first:
-      213: -1076426586580465502
-    second: SPA_Rock_Grass_Water_27
-  - first:
-      213: -5576478142290952502
-    second: SPA_Rock_Grass_Water_28
-  - first:
-      213: 3747544219709766277
-    second: SPA_Rock_Grass_Water_29
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -137,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -153,7 +63,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -221,8 +131,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d76664259aa2dcdd0800000000000000
-      internalID: -2464266514383608195
+      spriteID: 4a291b6f6d9cd194e8ca2ead66f7b8ab
+      internalID: -1748742558
       vertices: []
       indices: 
       edges: []
@@ -242,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1a9afcb963b4d1d0800000000000000
-      internalID: -3326836957996475874
+      spriteID: 60a25d7bd0ab7b943a825c6b88c26446
+      internalID: -2042312196
       vertices: []
       indices: 
       edges: []
@@ -263,8 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80039e27d2f46dee0800000000000000
-      internalID: -1236713991046615032
+      spriteID: f21e90ee6131a574fb13de6ac253b365
+      internalID: -947468838
       vertices: []
       indices: 
       edges: []
@@ -284,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13b9380facdb3a560800000000000000
-      internalID: 7323906098350758705
+      spriteID: fc0100e79a811834180316fc4300d509
+      internalID: -1987734925
       vertices: []
       indices: 
       edges: []
@@ -305,8 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e1c1c73dd99d1da0800000000000000
-      internalID: -5972448355421142556
+      spriteID: 9683778bc2f522c47ab0662991a29d14
+      internalID: 1334688643
       vertices: []
       indices: 
       edges: []
@@ -326,8 +236,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d9d0aa98c49beab0800000000000000
-      internalID: -4977721373819348528
+      spriteID: 887ccc638ae6a9d42a0ed9b9932d77ad
+      internalID: 1133941315
       vertices: []
       indices: 
       edges: []
@@ -347,8 +257,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46f10512719cf5e60800000000000000
-      internalID: 7953296568139915108
+      spriteID: 559c871cd52075648808c9eb85bae87a
+      internalID: -1643864100
       vertices: []
       indices: 
       edges: []
@@ -368,8 +278,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a70be54b16cde2b10800000000000000
-      internalID: 1958745200148787322
+      spriteID: 7dcc0fe057c4aa4499889b08cadc184b
+      internalID: -741472577
       vertices: []
       indices: 
       edges: []
@@ -389,8 +299,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7ba150b5ed2c3c60800000000000000
-      internalID: 7799159119227759483
+      spriteID: 30e56958d21ba74489032071efb0024f
+      internalID: -129317844
       vertices: []
       indices: 
       edges: []
@@ -410,8 +320,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52a87c3439b53c9d0800000000000000
-      internalID: -2755257858965140955
+      spriteID: d73ccb48d05ac0648ba57e0434ac3716
+      internalID: 1051010319
       vertices: []
       indices: 
       edges: []
@@ -431,8 +341,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7025120cbcf558fc0800000000000000
-      internalID: -3493280607249542649
+      spriteID: 4f6d3b8ab3887804e9ae684a91454d1b
+      internalID: 1522575088
       vertices: []
       indices: 
       edges: []
@@ -452,8 +362,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5921a2b3f2cd4390800000000000000
-      internalID: -7832389824997676707
+      spriteID: b94c94c7b1ac5de4ba30d4810ee65a3f
+      internalID: 821267251
       vertices: []
       indices: 
       edges: []
@@ -473,8 +383,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14551028f4c23c060800000000000000
-      internalID: 6972465368094823745
+      spriteID: 33952a06703c69e4c882585d3ede3c82
+      internalID: 2101383247
       vertices: []
       indices: 
       edges: []
@@ -494,8 +404,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad4f3852d6f0b8590800000000000000
-      internalID: -7671020578840251174
+      spriteID: 82fde4b3aa7a9f14fa7c5bd436e6083c
+      internalID: 2051777394
       vertices: []
       indices: 
       edges: []
@@ -515,8 +425,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c406a47d5c4f36620800000000000000
-      internalID: 2766323726693326924
+      spriteID: e3b055229fcdf71479088b9b491315e8
+      internalID: -190306080
       vertices: []
       indices: 
       edges: []
@@ -536,8 +446,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9329faffe4b426fc0800000000000000
-      internalID: -3503154757471595975
+      spriteID: 2b2f82dd854b71f4fb3e6db4ca60a33a
+      internalID: 506496957
       vertices: []
       indices: 
       edges: []
@@ -557,8 +467,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3dc373cd9178bd8e0800000000000000
-      internalID: -1667590691872097069
+      spriteID: 8d92cc75b44700d44bc7aa367f52792e
+      internalID: -274634832
       vertices: []
       indices: 
       edges: []
@@ -578,8 +488,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4a608c57353787dd0800000000000000
-      internalID: -2488111991826676060
+      spriteID: 2679b61b899817a4689766cf79d52127
+      internalID: 584781531
       vertices: []
       indices: 
       edges: []
@@ -599,8 +509,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: caf374d64e4fb6c90800000000000000
-      internalID: -7175372319361646676
+      spriteID: 482c683878fce1b41b0256d3170516ff
+      internalID: 1557488927
       vertices: []
       indices: 
       edges: []
@@ -620,8 +530,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8be73e613234dd590800000000000000
-      internalID: -7647882774218309960
+      spriteID: a507c03d8243eed4f95dc39c745a10bd
+      internalID: -1775630130
       vertices: []
       indices: 
       edges: []
@@ -641,8 +551,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a65c2b77dc37dec0800000000000000
-      internalID: -3542295685721467227
+      spriteID: 609e24cd3fa1834419055fc2ef1b26ba
+      internalID: 277231126
       vertices: []
       indices: 
       edges: []
@@ -662,8 +572,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6f1ef159104bef80800000000000000
-      internalID: -8076291029264883859
+      spriteID: ab6469d2bcd1a0e4bb3f307e426f9a11
+      internalID: -1675302430
       vertices: []
       indices: 
       edges: []
@@ -683,8 +593,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c74e05406adc89fc0800000000000000
-      internalID: -3487811798477773700
+      spriteID: cd28ae5dcd67f6a44b1b2e8534ba2da9
+      internalID: -1777688585
       vertices: []
       indices: 
       edges: []
@@ -704,8 +614,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83e7373776c20c8b0800000000000000
-      internalID: -5134054752372163016
+      spriteID: 28f794c67a8add7468559577f0808875
+      internalID: 338981660
       vertices: []
       indices: 
       edges: []
@@ -725,8 +635,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f98ee34742070f550800000000000000
-      internalID: 6192572789505845407
+      spriteID: 41fd11f3be4739c4183a9910b5204103
+      internalID: 1805335009
       vertices: []
       indices: 
       edges: []
@@ -746,8 +656,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19cceb14063270cb0800000000000000
-      internalID: -4897907173415269231
+      spriteID: 1bd697c9720014b4aaaf8f2693ead97f
+      internalID: 2072643809
       vertices: []
       indices: 
       edges: []
@@ -767,8 +677,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4e39b7584359c430800000000000000
-      internalID: 3803662930465603148
+      spriteID: 4e2cf41d2adba7e459a46dac08bdd667
+      internalID: -558437841
       vertices: []
       indices: 
       edges: []
@@ -788,8 +698,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a8c51009b3cf01f0800000000000000
-      internalID: -1076426586580465502
+      spriteID: 5c7ecf53b6a8ae340b2b057b8c111a97
+      internalID: 1051078882
       vertices: []
       indices: 
       edges: []
@@ -809,8 +719,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ace740fccae5c92b0800000000000000
-      internalID: -5576478142290952502
+      spriteID: 2459c8a304015f048924b0f732c75141
+      internalID: 1343068769
       vertices: []
       indices: 
       edges: []
@@ -830,8 +740,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58a7edbcc93f10430800000000000000
-      internalID: 3747544219709766277
+      spriteID: ae065e40ce973e74baab4bbde4cca6cb
+      internalID: 1309214391
       vertices: []
       indices: 
       edges: []
@@ -847,36 +757,36 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SPA_Rock_Grass_Water_4: -5972448355421142556
-      SPA_Rock_Grass_Water_24: 6192572789505845407
-      SPA_Rock_Grass_Water_16: -1667590691872097069
-      SPA_Rock_Grass_Water_5: -4977721373819348528
-      SPA_Rock_Grass_Water_1: -3326836957996475874
-      SPA_Rock_Grass_Water_14: 2766323726693326924
-      SPA_Rock_Grass_Water_20: -3542295685721467227
-      SPA_Rock_Grass_Water_17: -2488111991826676060
-      SPA_Rock_Grass_Water_25: -4897907173415269231
-      SPA_Rock_Grass_Water_21: -8076291029264883859
-      SPA_Rock_Grass_Water_26: 3803662930465603148
-      SPA_Rock_Grass_Water_2: -1236713991046615032
-      SPA_Rock_Grass_Water_12: 6972465368094823745
-      SPA_Rock_Grass_Water_0: -2464266514383608195
-      SPA_Rock_Grass_Water_9: -2755257858965140955
-      SPA_Rock_Grass_Water_29: 3747544219709766277
-      SPA_Rock_Grass_Water_6: 7953296568139915108
-      SPA_Rock_Grass_Water_18: -7175372319361646676
-      SPA_Rock_Grass_Water_23: -5134054752372163016
-      SPA_Rock_Grass_Water_19: -7647882774218309960
-      SPA_Rock_Grass_Water_10: -3493280607249542649
-      SPA_Rock_Grass_Water_15: -3503154757471595975
-      SPA_Rock_Grass_Water_22: -3487811798477773700
-      SPA_Rock_Grass_Water_7: 1958745200148787322
-      SPA_Rock_Grass_Water_27: -1076426586580465502
-      SPA_Rock_Grass_Water_11: -7832389824997676707
-      SPA_Rock_Grass_Water_28: -5576478142290952502
-      SPA_Rock_Grass_Water_3: 7323906098350758705
-      SPA_Rock_Grass_Water_8: 7799159119227759483
-      SPA_Rock_Grass_Water_13: -7671020578840251174
+      SPA_Rock_Grass_Water_4: 1334688643
+      SPA_Rock_Grass_Water_24: 1805335009
+      SPA_Rock_Grass_Water_16: -274634832
+      SPA_Rock_Grass_Water_5: 1133941315
+      SPA_Rock_Grass_Water_1: -2042312196
+      SPA_Rock_Grass_Water_14: -190306080
+      SPA_Rock_Grass_Water_20: 277231126
+      SPA_Rock_Grass_Water_17: 584781531
+      SPA_Rock_Grass_Water_25: 2072643809
+      SPA_Rock_Grass_Water_21: -1675302430
+      SPA_Rock_Grass_Water_26: -558437841
+      SPA_Rock_Grass_Water_2: -947468838
+      SPA_Rock_Grass_Water_12: 2101383247
+      SPA_Rock_Grass_Water_0: -1748742558
+      SPA_Rock_Grass_Water_9: 1051010319
+      SPA_Rock_Grass_Water_29: 1309214391
+      SPA_Rock_Grass_Water_6: -1643864100
+      SPA_Rock_Grass_Water_18: 1557488927
+      SPA_Rock_Grass_Water_23: 338981660
+      SPA_Rock_Grass_Water_19: -1775630130
+      SPA_Rock_Grass_Water_10: 1522575088
+      SPA_Rock_Grass_Water_15: 506496957
+      SPA_Rock_Grass_Water_22: -1777688585
+      SPA_Rock_Grass_Water_7: -741472577
+      SPA_Rock_Grass_Water_27: 1051078882
+      SPA_Rock_Grass_Water_11: 821267251
+      SPA_Rock_Grass_Water_28: 1343068769
+      SPA_Rock_Grass_Water_3: -1987734925
+      SPA_Rock_Grass_Water_8: -129317844
+      SPA_Rock_Grass_Water_13: 2051777394
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

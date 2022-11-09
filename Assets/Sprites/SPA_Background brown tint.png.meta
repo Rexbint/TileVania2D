@@ -1,55 +1,7 @@
 fileFormatVersion: 2
-guid: 716a80954d616e041abc56ac7d9c40df
+guid: 2517d4f02ba93604d90cdd06c448e2bb
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -6414447125379547148
-    second: SPA_Background brown tint_0
-  - first:
-      213: -2276109588449258574
-    second: SPA_Background brown tint_1
-  - first:
-      213: 7622431064557552515
-    second: SPA_Background brown tint_2
-  - first:
-      213: 289114549585270027
-    second: SPA_Background brown tint_3
-  - first:
-      213: -5862157076625757123
-    second: SPA_Background brown tint_4
-  - first:
-      213: 7565696428887314959
-    second: SPA_Background brown tint_5
-  - first:
-      213: 3104076937310148729
-    second: SPA_Background brown tint_6
-  - first:
-      213: 4777146490511550170
-    second: SPA_Background brown tint_7
-  - first:
-      213: 4021284656184010451
-    second: SPA_Background brown tint_8
-  - first:
-      213: -5428507737112726026
-    second: SPA_Background brown tint_9
-  - first:
-      213: 8721707918184771119
-    second: SPA_Background brown tint_10
-  - first:
-      213: 374688490947754656
-    second: SPA_Background brown tint_11
-  - first:
-      213: -1693060807349068911
-    second: SPA_Background brown tint_12
-  - first:
-      213: -568864715573125675
-    second: SPA_Background brown tint_13
-  - first:
-      213: 124453552786969483
-    second: SPA_Background brown tint_14
-  - first:
-      213: -3357515910591759238
-    second: SPA_Background brown tint_15
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -95,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,7 +63,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -179,8 +131,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4fff93d135e4bf6a0800000000000000
-      internalID: -6414447125379547148
+      spriteID: abfbe45db6ddc0342a74e7259cb98d47
+      internalID: -47454862
       vertices: []
       indices: 
       edges: []
@@ -200,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b31f9e7362a960e0800000000000000
-      internalID: -2276109588449258574
+      spriteID: 2140542b816397448b6053b0ab71bfb4
+      internalID: 800906992
       vertices: []
       indices: 
       edges: []
@@ -221,8 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3830bd7faa058c960800000000000000
-      internalID: 7622431064557552515
+      spriteID: b3d10dff44e211b49af1f1823c865b4c
+      internalID: -526066403
       vertices: []
       indices: 
       edges: []
@@ -242,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b055d6ba624230400800000000000000
-      internalID: 289114549585270027
+      spriteID: 3229a48c918ebe842a764c8408c91bd9
+      internalID: -412287596
       vertices: []
       indices: 
       edges: []
@@ -263,8 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3ced26a23f65aea0800000000000000
-      internalID: -5862157076625757123
+      spriteID: 03719b3b10b54c64782488fed83c8a53
+      internalID: -871925505
       vertices: []
       indices: 
       edges: []
@@ -284,8 +236,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f02154a31d0cef860800000000000000
-      internalID: 7565696428887314959
+      spriteID: 68e0eadb8a1adcd449029c33ad2f36d3
+      internalID: 1432336552
       vertices: []
       indices: 
       edges: []
@@ -305,8 +257,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9789ad34785e31b20800000000000000
-      internalID: 3104076937310148729
+      spriteID: 286f737f6847e864da8cda57eb6f2998
+      internalID: -1461658637
       vertices: []
       indices: 
       edges: []
@@ -326,8 +278,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad6e1f63c65db4240800000000000000
-      internalID: 4777146490511550170
+      spriteID: 920aeddf67f59264dba254b0883cf819
+      internalID: 340206074
       vertices: []
       indices: 
       edges: []
@@ -347,8 +299,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d6a390d6197ec730800000000000000
-      internalID: 4021284656184010451
+      spriteID: b7393a620180f484f881ae53cabecacb
+      internalID: 1425487440
       vertices: []
       indices: 
       edges: []
@@ -368,8 +320,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f5bfec79f01aa4b0800000000000000
-      internalID: -5428507737112726026
+      spriteID: da69c88173b3856499a450c36b90f49a
+      internalID: 791700677
       vertices: []
       indices: 
       edges: []
@@ -389,8 +341,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2e6d1a542bb90970800000000000000
-      internalID: 8721707918184771119
+      spriteID: 00b04e56d7ce8ff47b6810ebc5061a8a
+      internalID: -930037558
       vertices: []
       indices: 
       edges: []
@@ -410,8 +362,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0aa3e548239233500800000000000000
-      internalID: 374688490947754656
+      spriteID: e4a9dcf2c859ad5428c2ec79fb91ee28
+      internalID: 1719174479
       vertices: []
       indices: 
       edges: []
@@ -431,8 +383,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19b92da7a2a0188e0800000000000000
-      internalID: -1693060807349068911
+      spriteID: cc65195f94f353c43b4c5f13515b6041
+      internalID: 929431727
       vertices: []
       indices: 
       edges: []
@@ -452,8 +404,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5dd920f1e8cfa18f0800000000000000
-      internalID: -568864715573125675
+      spriteID: 36b6f4dc77f138442b031186de3559f9
+      internalID: 761888631
       vertices: []
       indices: 
       edges: []
@@ -473,8 +425,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8317ecc8d52ab100800000000000000
-      internalID: 124453552786969483
+      spriteID: 6eea189e2ce8ea045951ed719e08b46b
+      internalID: 1585917884
       vertices: []
       indices: 
       edges: []
@@ -494,8 +446,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7cb4757115b761d0800000000000000
-      internalID: -3357515910591759238
+      spriteID: 827bccf1b91e68e43abad777e17a5c02
+      internalID: 1574053210
       vertices: []
       indices: 
       edges: []
@@ -511,22 +463,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SPA_Background brown tint_4: -5862157076625757123
-      SPA_Background brown tint_10: 8721707918184771119
-      SPA_Background brown tint_15: -3357515910591759238
-      SPA_Background brown tint_11: 374688490947754656
-      SPA_Background brown tint_0: -6414447125379547148
-      SPA_Background brown tint_1: -2276109588449258574
-      SPA_Background brown tint_13: -568864715573125675
-      SPA_Background brown tint_3: 289114549585270027
-      SPA_Background brown tint_6: 3104076937310148729
-      SPA_Background brown tint_2: 7622431064557552515
-      SPA_Background brown tint_7: 4777146490511550170
-      SPA_Background brown tint_9: -5428507737112726026
-      SPA_Background brown tint_8: 4021284656184010451
-      SPA_Background brown tint_12: -1693060807349068911
-      SPA_Background brown tint_14: 124453552786969483
-      SPA_Background brown tint_5: 7565696428887314959
+      SPA_Background brown tint_4: -871925505
+      SPA_Background brown tint_10: -930037558
+      SPA_Background brown tint_15: 1574053210
+      SPA_Background brown tint_11: 1719174479
+      SPA_Background brown tint_0: -47454862
+      SPA_Background brown tint_1: 800906992
+      SPA_Background brown tint_13: 761888631
+      SPA_Background brown tint_3: -412287596
+      SPA_Background brown tint_6: -1461658637
+      SPA_Background brown tint_2: -526066403
+      SPA_Background brown tint_7: 340206074
+      SPA_Background brown tint_9: 791700677
+      SPA_Background brown tint_8: 1425487440
+      SPA_Background brown tint_12: 929431727
+      SPA_Background brown tint_14: 1585917884
+      SPA_Background brown tint_5: 1432336552
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
